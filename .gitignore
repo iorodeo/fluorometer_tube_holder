@@ -1,0 +1,6 @@
+*~
+*.FCStd1
+*.pyc
+*-bak
+third_party_parts
+*.png
