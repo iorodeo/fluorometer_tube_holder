@@ -1,5 +1,6 @@
 *~
 *.FCStd1
+*.FCBak
 *.pyc
 *-bak
 third_party_parts
